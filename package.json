@@ -16,7 +16,9 @@
     "size",
     "width",
     "height",
-    "npm"
+    "npm",
+    "react-hooks",
+    "small-package"
   ],
   "author": "aunsh.com",
   "license": "MIT",
