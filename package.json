@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/aunshx/react-window-size-hook#readme",
   "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+
   }
 }
