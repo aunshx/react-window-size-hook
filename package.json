@@ -19,7 +19,7 @@
     "npm"
   ],
   "author": "aunsh.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/aunshx/react-window-size-hook/issues"
   },
