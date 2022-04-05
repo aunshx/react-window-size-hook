@@ -1,7 +1,7 @@
 # React Window Size Simple
 
-A very simple react hook which generates the browsers height and width whenever it is changed or id ideal.
-Useful for making websites responsive.
+A very simple react hook which generates the browsers height and width whether or not it is changed.
+Useful for making websites responsive or triggering events based on size of browser.
 
 Example:
 
