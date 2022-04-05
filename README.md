@@ -1,9 +1,16 @@
 # React Window Size Simple
 
-A very simple react hook which generates the browsers height and width whenever it is changed or id ideal.
-Useful for making websites responsive.
+[![NPM version](https://img.shields.io/npm/v/react-window-size-simple.svg?style=flat)](https://www.npmjs.com/package/react-window-size-simple)
+![NPM license](https://img.shields.io/npm/l/react-window-size-simple.svg?style=flat)
 
-Example:
+
+A very simple react hook which generates the browsers height and width whether or not it is changed.
+Useful for making websites responsive or triggering events based on size of browser.
+
+## Working
+Import the _useWindow_ hook from 'react-window-size-simple'.
+Extract the _width_ and _height_ values from the hook and use in your component.
+That's it!
 
 ```javascript
 import React from 'react';
@@ -25,9 +32,11 @@ const App = () => {
 export default App;
 ```
 
+## Examples
+
 An example of the usefulness of the hook is given below.
 
-example: Align the divs vertically if the browser width is less than 400px or else align them horizontally
+Ex: Align the divs vertically if the browser width is less than 400px or else align them horizontally.
 
 ```javascript
 import React from 'react';
@@ -57,3 +66,7 @@ const App = () => {
 
 export default App;
 ```
+
+## License
+
+_react-window-size-simple is available under the MIT License.
