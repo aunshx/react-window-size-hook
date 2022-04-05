@@ -1,6 +1,8 @@
 # React Window Size Simple
 
 [![NPM version](https://img.shields.io/npm/v/react-window-size-simple.svg?style=flat)](https://www.npmjs.com/package/react-window-size-simple)
+![NPM license](https://img.shields.io/npm/l/react-window-size-simple.svg?style=flat)
+
 
 A very simple react hook which generates the browsers height and width whether or not it is changed.
 Useful for making websites responsive or triggering events based on size of browser.
