@@ -1,5 +1,5 @@
 {
-  "name": "react-window-size-hook",
+  "name": "react-window-size-simple",
   "version": "1.0.0",
   "description": "A small package to get window width and height of active window",
   "main": "useWindow.js",
