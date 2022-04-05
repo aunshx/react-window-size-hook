@@ -1,0 +1,30 @@
+{
+  "name": "react-window-size-hook",
+  "version": "1.0.0",
+  "description": "A small package to get window width and height of active window",
+  "main": "useWindow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aunshx/react-window-size-hook.git"
+  },
+  "keywords": [
+    "window",
+    "react",
+    "size",
+    "width",
+    "height",
+    "npm"
+  ],
+  "author": "aunsh.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aunshx/react-window-size-hook/issues"
+  },
+  "homepage": "https://github.com/aunshx/react-window-size-hook#readme",
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
