@@ -7,6 +7,13 @@
 A very simple react hook which generates the browsers height and width whether or not it is changed.
 Useful for making websites responsive or triggering events based on size of browser.
 
+## Installation
+```
+npm i react-window-size-simple
+// OR
+yarn add react-window-size-simple
+```
+
 ## Working
 Import the _useWindow_ hook from 'react-window-size-simple'.
 Extract the _width_ and _height_ values from the hook and use in your component.
