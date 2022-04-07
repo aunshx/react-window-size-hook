@@ -69,4 +69,4 @@ export default App;
 
 ## License
 
-_react-window-size-simple is available under the MIT License.
+react-window-size-simple is available under the MIT License.
